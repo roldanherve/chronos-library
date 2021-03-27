@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chronos Library", "Chronos Library\Chronos Library.csproj", "{5EAD091B-61FF-4E55-86F0-05B65305E649}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B2B5193F-8781-4D5A-AA15-438C65B4BEC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EAD091B-61FF-4E55-86F0-05B65305E649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EAD091B-61FF-4E55-86F0-05B65305E649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EAD091B-61FF-4E55-86F0-05B65305E649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EAD091B-61FF-4E55-86F0-05B65305E649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6B95330-0DD1-4C9B-B9D4-D8810F8053AF}
+	EndGlobalSection
+EndGlobal

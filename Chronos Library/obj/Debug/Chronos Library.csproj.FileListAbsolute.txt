@@ -1,0 +1,22 @@
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\bin\Debug\Chronos Library.exe.config
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\bin\Debug\Chronos Library.exe
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\bin\Debug\Chronos Library.pdb
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos_Library.MainMenu.resources
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos_Library.Properties.Resources.resources
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos Library.csproj.GenerateResource.cache
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos Library.csproj.CoreCompileInputs.cache
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos Library.exe
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos Library.pdb
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\bin\Debug\Guna.UI2.dll
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos Library.csproj.CopyComplete
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos_Library.User_Control.UC_Home.resources
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos_Library.User_Control.UC_User.resources
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos Library.csprojAssemblyReference.cache
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos_Library.Forms.Home.resources
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos_Library.Forms.Users.resources
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos_Library.Forms.Records.resources
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos_Library.Forms.Info.resources
+C:\Users\Herve\source\repos\Chronos Library\Chronos Library\obj\Debug\Chronos_Library.Forms.Lend.resources
+C:\Users\Herve\Desktop\hervé\repos\Chronos Library\Chronos Library\obj\Debug\Chronos Library.csprojAssemblyReference.cache
+C:\Users\Herve\Desktop\hervé\repos\Chronos Library\Chronos Library\obj\Debug\Chronos Library.exe
+C:\Users\Herve\Desktop\hervé\repos\Chronos Library\Chronos Library\obj\Debug\Chronos Library.pdb
